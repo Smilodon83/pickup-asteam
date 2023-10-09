@@ -1,0 +1,115 @@
+[
+    {
+        "id":"0",
+        "name":"Caracal",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"1397",
+        "gamePlayed":"53",
+        "win":"33",
+        "loose":"20",
+        "winRate":"62",
+        "mvp":"16",
+        "actionOfMatch":"0"
+
+
+    },
+    {
+        "id":"1",
+        "name":"Smilodon",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"1035",
+        "gamePlayed":"34",
+        "win":"17",
+        "loose":"17",
+        "winRate":"50",
+        "mvp":"2",
+        "actionOfMatch":"0"
+
+
+    },
+    {
+        "id":"2",
+        "name":"t1m0r",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"922",
+        "gamePlayed":"44",
+        "win":"20",
+        "loose":"24",
+        "winRate":"45",
+        "mvp":"3",
+        "actionOfMatch":"3"
+
+
+    },
+    {
+        "id":"3",
+        "name":"Kouskous",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"1094",
+        "gamePlayed":"5",
+        "win":"4",
+        "loose":"1",
+        "winRate":"80",
+        "mvp":"1",
+        "actionOfMatch":"1"
+
+
+    },
+    {
+        "id":"4",
+        "name":"Ik1",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"1105",
+        "gamePlayed":"16",
+        "win":"9",
+        "loose":"7",
+        "winRate":"56",
+        "mvp":"2",
+        "actionOfMatch":"0"
+
+
+    },
+    {
+        "id":"5",
+        "name":"Aki",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"1314",
+        "gamePlayed":"23",
+        "win":"16",
+        "loose":"7",
+        "winRate":"70",
+        "mvp":"5",
+        "actionOfMatch":"0"
+
+
+    },
+    {
+        "id":"6",
+        "name":"Leeroy",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"863",
+        "gamePlayed":"37",
+        "win":"16",
+        "loose":"21",
+        "winRate":"43",
+        "mvp":"1",
+        "actionOfMatch":"0"
+
+
+    },
+    {
+        "id":"7",
+        "name":"KLS",
+        "avatar":"https://i.imgur.com/7nN4DzL.png",
+        "elo":"1144",
+        "gamePlayed":"40",
+        "win":"22",
+        "loose":"18",
+        "winRate":"55",
+        "mvp":"2",
+        "actionOfMatch":"1"
+
+
+    }
+
+]

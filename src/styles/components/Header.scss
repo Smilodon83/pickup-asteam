@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    padding: 0 5% 0 5%;
+}
+.logo{
+    height: 260px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    a{
+        color : white;
+        padding-right : 20px;
+        font-size: 24px;
+        }
+}
+.bannercontainer{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+
+
+h1{
+    position: absolute;
+    align-self: center;
+    top : 225px;
+    font-size: 46px;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,3,4,1) 65%);
+    background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+}
